@@ -1,8 +1,8 @@
 # Steps 1: clone source github
 # Steps 2: Install some Package ( snipping below)
-# Steps 2: Open Package Manager Console
-# Steps 3: copy this command and press Enter: add-migration "InitialSetup"
-# Steps 4: copy this command and press Enter: update-database
+# Steps 3: Open Package Manager Console
+# Steps 4: copy this command and press Enter: add-migration "InitialSetup"
+# Steps 5: copy this command and press Enter: update-database
 # Final: Run and see the result.
 
 ![image](https://user-images.githubusercontent.com/107535196/176867402-fe3653f2-a880-4558-910e-2ab4bbf60bfc.png)
